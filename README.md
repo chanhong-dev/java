@@ -15,3 +15,5 @@
 다이나믹 메소드 디스패치 (Dynamic Method Dispatch)
 
 default키워드
+
+반복문 안에 변수 및 객체 선언은 괜찮을까?

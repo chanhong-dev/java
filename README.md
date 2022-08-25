@@ -19,3 +19,6 @@ default키워드
 반복문 안에 변수 및 객체 선언은 괜찮을까?
 
 StringBuffer, StringBuilder
+
+
+deleteAll vs deleteAllInBatch
